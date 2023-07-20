@@ -364,3 +364,15 @@ header {
   padding: 8px 20px;
   border-radius: 0.5rem;
 }
+/* copyright */
+.copyright {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.social a {
+  color: #444;
+  padding: 10px;
+  font-size: 21px;
+}
